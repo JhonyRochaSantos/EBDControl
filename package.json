@@ -1,0 +1,32 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "knex": "^0.21.1",
+    "nodemailer": "^6.4.6",
+    "path": "^0.12.7",
+    "sqlite-sync": "^0.3.9",
+    "sqlite3": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusAlencarDev/academic-control.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ViniciusAlencarDev/academic-control/issues"
+  },
+  "homepage": "https://github.com/ViniciusAlencarDev/academic-control#readme",
+  "description": ""
+}
